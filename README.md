@@ -1,4 +1,10 @@
+
+
 # Victor Hugo
+
+
+**Check new contributions [here](https://vibrant-lovelace-6e325f.netlify.app/)**
+
 
 **A Hugo boilerplate for creating truly epic websites**
 
